@@ -110,6 +110,11 @@ permissions:
       bt.cmd.wand:
         description: Permissions for //wand
         default: op
+      bt.cmd.flip:
+        description: Permissions for //flip
+        default: op
+      bt.cmd.rotate:
+        description: Permissions for //rotate
 
 
 
